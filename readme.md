@@ -2,4 +2,4 @@
 Menggunakan Framework Codeigniter 3 
 
 ## Panduan
-Untuk panduan penggunaan aplikasi di folder panduan
+Untuk panduan penggunaan aplikasi ada di folder panduan
